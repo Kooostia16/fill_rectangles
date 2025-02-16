@@ -1,7 +1,7 @@
 # fill_rectangles
 Algorithm to fill empty space with rectangles, given initial set of rectangles
 
-Current implementation lacks some optimizations, but with larger grid sizes it should work fast
+Current implementation lacks some optimizations, but with larger grid block sizes it should work fast
 
 I've implemented it mostly just for my wip game with procedural levels
 
